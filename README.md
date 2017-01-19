@@ -1,0 +1,2 @@
+# bullscripts
+Bullshit scripts
